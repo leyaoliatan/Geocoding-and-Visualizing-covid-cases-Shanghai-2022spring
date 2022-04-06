@@ -11,3 +11,10 @@ Take files with 0404 in the names, which are the data of the new-wave infecting 
         
     The geocoding is achieved by Google Geocoding API. For more details, plz refer to my repository [Google_Geocoding_API](https://github.com/Liagogo/Google_Geocoding_API).
 - `shanghai2022_04_04_districts.csv` includes the summary of infected persons across all districts in Shanghai on 04/04/2022
+    
+-----------
+   
+output photos:
+![shanghai_distircts_0404](https://user-images.githubusercontent.com/99280254/162022206-8d9b3728-a3a1-4e0a-a187-286b32334beb.png)
+![shanghai_geomap_0404](https://user-images.githubusercontent.com/99280254/162022140-25ca01ac-0117-4dec-9eb7-c88376cba8b2.png)
+<img width="1414" alt="shanghai_geomap_0404_tab" src="https://user-images.githubusercontent.com/99280254/162022180-bcb65048-7ea8-4587-bb2f-411d590263df.png">

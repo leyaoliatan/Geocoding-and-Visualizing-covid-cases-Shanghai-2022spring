@@ -1,9 +1,10 @@
 # Shanghai_covid_2022spring
-Data Visualization  of the new covid wave of Shanghai in 2022 spring with the public infection data 
+        
+Data Visualization  of the official published data of covid cases in Shanghai.
     
 -----------
         
-Take files with 0404 in the names, which are the data of the new-wave infecting on 04/04/2022, as examples:
+Files with 0404 in the names are the data related to the covid cases on 04/04/2022. For example:
         
 - `shanghai0404.txt` is the downloaded original code of public notice from [Wechat article of Shanghai Official](https://mp.weixin.qq.com/s/MkKsQkgvUWbwj8z9jG_Zng) on 04/04/2022.
 - `shanghai2022_04_04.csv` includes the locations, formatted locations, latitudes and longitudes of the published addresses of infected persons (approximate addresses) on 04/04/2022. The data form is shown as the following:         
@@ -14,7 +15,9 @@ Take files with 0404 in the names, which are the data of the new-wave infecting 
     
 -----------
    
-output photos:
-![shanghai_distircts_0404](https://user-images.githubusercontent.com/99280254/162022206-8d9b3728-a3a1-4e0a-a187-286b32334beb.png)
+Outputs:
+        
 ![shanghai_geomap_0404](https://user-images.githubusercontent.com/99280254/162022140-25ca01ac-0117-4dec-9eb7-c88376cba8b2.png)
-<img width="1414" alt="shanghai_geomap_0404_tab" src="https://user-images.githubusercontent.com/99280254/162022180-bcb65048-7ea8-4587-bb2f-411d590263df.png">
+
+-----------
+Click [here](https://blog.csdn.net/liatan/article/details/124019139) to check the Chinese instructions.

@@ -1,4 +1,4 @@
-# Shanghai_covid_2022spring
+# Geocoding and Visualizing covid cases in Shanghai
         
 Data Visualization  of the official published data of covid cases in Shanghai.
     
